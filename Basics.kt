@@ -17,8 +17,8 @@ fun main(args: Array<String>) {
     var mass: Float = 14.6f
     var distance: Double = 129.763001.toDouble()
     var lost: Boolean = true
-	var expensive: Boolean = true
-	var choice: Int = 2
+    var expensive: Boolean = true
+    var choice: Int = 2
     var name = "Karen"
     
     if (sample1 == sample2) println("The samples are equal.")
